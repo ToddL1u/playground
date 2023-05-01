@@ -1,1 +1,3 @@
-function test2(){}
+function test2(){
+  console.log('this is test2')
+}
